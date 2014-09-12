@@ -1,0 +1,23 @@
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 250px;
+  margin-top: 250px:;
+  color: inherit;
+  height: 600px;
+  background-color: #eee;
+  width: 100%
+  
+}
+
+.container {
+width:100%;
+
+
+}
+
+
+.container             {
+@media (min-width: 1200px) {
+  .container {
+    width: 2000px;
+}
